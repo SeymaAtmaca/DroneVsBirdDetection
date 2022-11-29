@@ -37,6 +37,15 @@ If you want to train your model with different number of classes, you should cha
 
 <br> <br>
 
+The video detection output I made as a result of my model training is below. It is seen that a good determination has been made in the video, but there are also errors. This is because my dataset is very small. If you want a better result, you can enlarge your dataset.
+
+
+https://user-images.githubusercontent.com/54944249/204648035-23729cb9-5700-4f77-b2d3-5a2bc9eac294.mp4
+
+<br><br>
+The video I used for detection is also included in the downloaded file. You can run the program with colab by downloading this file directly to your drive.
+
+<br><br>
 
 ## Contact
 
